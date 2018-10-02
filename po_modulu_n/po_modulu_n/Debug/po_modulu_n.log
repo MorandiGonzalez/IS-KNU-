@@ -1,0 +1,7 @@
+﻿  po_modulu_n.cpp
+d:\projects\c++\po_modulu_n\po_modulu_n\po_modulu_n.cpp(12): warning C4018: <: несоответствие типов со знаком и без знака
+d:\projects\c++\po_modulu_n\po_modulu_n\po_modulu_n.cpp(22): warning C4018: <: несоответствие типов со знаком и без знака
+d:\projects\c++\po_modulu_n\po_modulu_n\po_modulu_n.cpp(23): warning C4018: >: несоответствие типов со знаком и без знака
+d:\projects\c++\po_modulu_n\po_modulu_n\po_modulu_n.cpp(33): warning C4018: <: несоответствие типов со знаком и без знака
+d:\projects\c++\po_modulu_n\po_modulu_n\po_modulu_n.cpp(34): warning C4018: >: несоответствие типов со знаком и без знака
+  po_modulu_n.vcxproj -> D:\Projects\C++\po_modulu_n\Debug\po_modulu_n.exe
